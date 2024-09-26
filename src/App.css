@@ -1,0 +1,17 @@
+@font-face{
+    font-family: Montserrat-italic;
+    src: url(../public/Montserrat-Italic-VariableFont_wght.ttf);
+}
+
+@font-face{
+    font-family: Montserrat-normal;
+    src: url(../public/Montserrat-VariableFont_wght.ttf);
+}
+
+.Montserrat-italic{
+    font-family: Montserrat-italic;
+}
+
+.Montserrat-normal{
+    font-family: Montserrat-normal;
+}
